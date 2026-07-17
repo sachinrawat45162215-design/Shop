@@ -116,7 +116,7 @@ const products = [
     unit: "1 Litre",
     rating: 4.8,
     reviews: 312,
-    image: "",
+    image: "🥛",
     description: "Fresh, pasteurized whole milk from local dairy farms.",
     inStock: true,
     badge: "Fresh"
