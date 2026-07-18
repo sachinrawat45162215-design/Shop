@@ -8,7 +8,7 @@ const products = [
     unit: "per kg",
     rating: 4.8,
     reviews: 124,
-    image: "",
+    image: "🍎",
     description: "Crisp, sweet, and locally grown organic Gala apples.",
     inStock: true,
     badge: "Organic"
